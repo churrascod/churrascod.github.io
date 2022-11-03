@@ -1,0 +1,57 @@
+p{
+ 
+    color: #ff0000;
+    font-size: 16tx;
+    font-family: fantasy;
+}
+a{
+    text-decoration: none;
+}
+    a:hover{
+        background: #0011ff;
+    }
+    body{background-color: #ffffff;
+ 
+    }
+    table{
+        background:#000000de
+    }
+    h1{
+        color:#000000;
+        font-style:oblique;
+  }
+
+   img{
+    border: radius 30px;;
+    opacity: 0.8;
+
+   }
+
+
+   img:hover{
+
+        transform: scale(1);
+        
+
+   }
+   
+   img{
+    border-radius: 50%;
+    opacity: 1;
+
+   }
+
+
+   img:hover{
+
+        transform: scale(1.2);
+        
+
+   }
+
+
+   img{
+    border-radius: 50%;
+    opacity: 0.5;
+
+   }
