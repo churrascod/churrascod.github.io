@@ -10,14 +10,14 @@ a{
     a:hover{
         background: #0011ff;
     }
-    body{background-color: #ffffff;
+    body{background-color: #000000;
  
     }
     table{
-        background:#000000de
+        background:#000000;
     }
     h1{
-        color:#000000;
+        color:#ffffff;
         font-style:oblique;
   }
 
