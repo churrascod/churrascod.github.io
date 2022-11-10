@@ -10,7 +10,7 @@ a{
     a:hover{
         background:#ffffff;
     }
-    body{background-color: #000000;
+    body{background-color:#ffffff;
  
     }
     table{
@@ -52,6 +52,6 @@ a{
 
    img{
     border-radius: 50%;
-    opacity: 0.5;
+    opacity:1;
 
    }
