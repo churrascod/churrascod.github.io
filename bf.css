@@ -10,8 +10,9 @@ a{
     a:hover{
         background:#ffffff;
     }
-    body{background-color:#ffffff;
- 
+    body{
+     background-color:#000000;
+color:#ffffff;
     }
     table{
         background:#000000;
